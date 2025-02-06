@@ -1,12 +1,10 @@
-
-
 # 🛡️ Linux Server Security Assessment Script
 
-![Security Assessment Banner]([https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/LEDTEAM_%EB%A1%9C%EA%B3%A0.jpg](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/LEDTEAM_%EB%A1%9C%EA%B3%A0.jpg))
+![LED TEAM Logo](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/LEDTEAM_%EB%A1%9C%EA%B3%A0.jpg)
 
 ## 📋 프로젝트 개요
 
-이 프로젝트는 Rocky Linux 서버의 보안 취약점을 자동으로 진단하고 분석하는 스크립트입니다. 총 72개의 보안 점검 항목을 통해 시스템의 보안 상태를 종합적으로 평가합니다.
+이 프로젝트는 LED TEAM이 개발한 Rocky Linux 서버의 보안 취약점을 자동으로 진단하고 분석하는 스크립트입니다. 총 72개의 보안 점검 항목을 통해 시스템의 보안 상태를 종합적으로 평가합니다.
 
 ## ✨ 주요 기능
 
