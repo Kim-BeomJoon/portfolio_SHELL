@@ -18,7 +18,7 @@
 ## 🖼️ 결과 스크린샷
 
 ![Result Screenshot 1](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start.png)
-![Result Screenshot 2](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start4.png)
+![Result Screenshot 2](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start1.png)
 ![Result Screenshot 3](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start2.png)
 ![Result Screenshot 4](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start4.png)
 
