@@ -15,13 +15,12 @@
 - **실시간 진행 상황**: 프로그레스 바를 통한 진단 진행률 표시
 - **상세한 결과 리포트**: 취약점 발견 시 구체적인 조치 방안 제시
 
-## 🖼️ 스크린샷
+## 🖼️ 결과 스크린샷
 
-### 진단 프로세스
-![Diagnosis Process](https://your-process-image-url.png)
-
-### 결과 리포트
-![Result Report](https://your-report-image-url.png)
+![Result Screenshot 1](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start.png)
+![Result Screenshot 2](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start4.png)
+![Result Screenshot 3](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start2.png)
+![Result Screenshot 4](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/start4.png)
 
 ## 🚀 실행 방법
 
