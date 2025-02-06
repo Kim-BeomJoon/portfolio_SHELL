@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🛡️ Security Assessment & Incident Response Scripts
 
 ![LED TEAM Logo](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/LEDTEAM_%EB%A1%9C%EA%B3%A0.jpg)
