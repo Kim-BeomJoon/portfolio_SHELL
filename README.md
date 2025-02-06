@@ -83,7 +83,7 @@ sudo ./Shell_Check.sh
 ## 🚀 Windows 스크립트 실행 방법
 ```powershell
 # 관리자 권한으로 PowerShell 실행
-.\Artifact_Collection.ps1
+.\start.bat
 ```
 
 ## 📊 Windows 수집 항목 분류
