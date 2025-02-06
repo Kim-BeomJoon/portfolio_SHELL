@@ -2,7 +2,7 @@
 
 # 🛡️ Linux Server Security Assessment Script
 
-![Security Assessment Banner](https://your-banner-image-url.png)
+![Security Assessment Banner]([https://your-banner-image-url.png](https://github.com/Kim-BeomJoon/portfolio_SHELL/blob/main/LEDTEAM_%EB%A1%9C%EA%B3%A0.jpg?raw=true))
 
 ## 📋 프로젝트 개요
 
